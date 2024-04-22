@@ -1,5 +1,13 @@
+# DIO - Trilha .NET - Programação orientada a objetos
+Segundo desafio de projeto realizado no programa de estágio Decola Tech 2024, através da plataforma Digital Innovation One.
+## Conhecimentos e habilidades desenvolvidas:
+- Classes em C#
+- Herança
+- Polimorfimo
+- Classe abstrata
+
 # Enunciado do Desafio: <br>
-## DIO - Trilha .NET - Programação orientada a objetos
+
 www.dio.me
 
 ## Desafio de projeto
